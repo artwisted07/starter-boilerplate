@@ -2,16 +2,14 @@
 
 html, body{
   height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 body{
-  background-color: red;
+  background-color: royalblue;
 }
 
 
-
-h1{
-  color:#fff;
-  font-family: cursive;
-  text-align: center;
-}
+@import 'header';
+  
